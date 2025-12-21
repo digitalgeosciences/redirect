@@ -1,3 +1,3 @@
-# thankyou - comeback later!
+# Redirect - see you there!
 
 Thank you!
