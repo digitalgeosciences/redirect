@@ -8,7 +8,7 @@
     min-width: 15px;
 }
 
-/* Subtle pulse effect for the warning text */
+/* Subtle pulse effect for the warning text. */
 .warning-text {
     animation: softPulse 2s infinite ease-in-out;
 }
